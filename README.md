@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Zorakidd
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning C# and WinUI 3
-- 💞️ I’m looking to collaborate on every project
+- 🌱 I’m currently learning C# and Python (Also WebDev but I'm bad)
+- 💞️ I’m looking for help
 - 📫 How to reach me: don't
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/Yours
 - ⚡ Fun fact: I'm dumb
 
 <!---
